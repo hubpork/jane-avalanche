@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>Jane Avalanche - Favicon (Square Bolt)</title>
+  <desc>Neon bolt on dark square, optimized for small sizes.</desc>
+  <rect width="64" height="64" rx="12" fill="#0a0a0a"/>
+  <path d="M36 6 12 38h12l-4 20 28-36H36l4-16z" fill="#10ff78"/>
+</svg>
